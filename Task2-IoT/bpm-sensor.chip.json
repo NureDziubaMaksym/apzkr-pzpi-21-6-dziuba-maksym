@@ -1,0 +1,11 @@
+{
+  "name": "bpm-sensor",
+  "author": "",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}
