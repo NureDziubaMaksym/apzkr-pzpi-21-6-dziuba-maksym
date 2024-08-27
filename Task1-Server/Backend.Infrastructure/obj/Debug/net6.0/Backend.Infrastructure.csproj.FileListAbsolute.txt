@@ -1,0 +1,14 @@
+D:\Source\C#\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.deps.json
+D:\Source\C#\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.runtimeconfig.json
+D:\Source\C#\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.dll
+D:\Source\C#\Backend.Infrastructure\bin\Debug\net6.0\Backend.Infrastructure.pdb
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.AssemblyReference.cache
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfoInputs.cache
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.AssemblyInfo.cs
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.dll
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\refint\Backend.Infrastructure.dll
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.pdb
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\Backend.Infrastructure.genruntimeconfig.cache
+D:\Source\C#\Backend.Infrastructure\obj\Debug\net6.0\ref\Backend.Infrastructure.dll
