@@ -1,0 +1,17 @@
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Core.deps.json
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Core.dll
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Core.pdb
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.csproj.AssemblyReference.cache
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.AssemblyInfoInputs.cache
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.AssemblyInfo.cs
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.csproj.CoreCompileInputs.cache
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.dll
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\refint\Backend.Core.dll
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.pdb
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\ref\Backend.Core.dll
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Core.runtimeconfig.json
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.genruntimeconfig.cache
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Infrastructure.dll
+D:\Source\C#\Backend.Core\bin\Debug\net6.0\Backend.Infrastructure.pdb
+D:\Source\C#\Backend.Core\obj\Debug\net6.0\Backend.Core.csproj.CopyComplete
