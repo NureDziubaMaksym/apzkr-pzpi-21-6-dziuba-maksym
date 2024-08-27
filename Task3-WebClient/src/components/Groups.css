@@ -1,0 +1,122 @@
+
+
+
+.groups-page {
+    margin-left: 200px; /* Учитываем ширину Sidebar */
+    padding: 20px;
+    background-color: #222;
+    color: #fff;
+    min-height: 100vh;
+    box-sizing: border-box;
+    overflow-y: auto;
+    overflow-x: hidden;
+    max-height: 100vh;
+}
+
+.groups-page h1 {
+    font-size: 2.5em;
+    color: #e74c3c;
+    margin-bottom: 30px; /* Отступ от заголовка до первого раздела */
+}
+
+.collapsible-section {
+    margin-bottom: 20px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #444;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.section-header h2 {
+    margin: 0;
+    color: #e74c3c;
+    font-size: 1.5em;
+}
+
+.toggle-button {
+    background-color: transparent;
+    border: none;
+    color: #e74c3c;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.section-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out, padding 0.5s ease-in-out;
+    padding: 0 20px;
+}
+
+.section-content.expanded {
+    max-height: 1000px; /* Достаточная высота для контента */
+    padding: 20px;
+}
+
+.section-content.collapsed {
+    padding: 0 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #e74c3c;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #c0392b;
+}
+
+button:active {
+    background-color: #a93226;
+}
+
+input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    transition: border-color 0.3s ease;
+}
+
+input:focus {
+    border-color: #e74c3c;
+    outline: none;
+}
+
+/* Перемещение полосы прокрутки */
+body {
+    overflow-y: scroll;
+}
+
+.groups-page::-webkit-scrollbar {
+    width: 12px;
+}
+
+.groups-page::-webkit-scrollbar-track {
+    background: #333;
+}
+
+.groups-page::-webkit-scrollbar-thumb {
+    background-color: #e74c3c;
+    border-radius: 20px;
+    border: 3px solid #333;
+}

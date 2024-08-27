@@ -1,0 +1,98 @@
+.side-nav {
+    width: 200px;
+    background-color: #333;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.logo-container {
+    text-align: left;
+    margin-bottom: 20px; /* Отступ снизу для отделения от списка */
+}
+
+.logo {
+    width: 28%; /* Устанавливаем ширину в 50% от текущей */
+    height: auto; /* Автоматически рассчитываем высоту пропорционально ширине */
+    display: block;
+    border-radius: 5px;
+}
+
+
+.side-nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; /* Убираем отступы, чтобы было больше пространства */
+}
+
+.side-nav ul li {
+    margin-bottom: 20px; /* Увеличиваем отступ между элементами */
+}
+
+.side-nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em; /* Увеличиваем размер шрифта */
+    padding: 10px;
+    display: block;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 5px;
+}
+
+.side-nav ul li a:hover {
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+.logout-button {
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 1em; /* Увеличиваем размер шрифта */
+    cursor: pointer;
+    margin-top: auto;
+    transition: background-color 0.3s;
+}
+
+.logout-button:hover {
+    background-color: #c0392b;
+}
+
+/* Разделительная линия */
+.side-nav::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: -1px;
+    width: 2px;
+    height: 100%;
+    background-color: #e74c3c;
+}
+
+.language-switcher {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.language-switcher button {
+    background-color: transparent;
+    border: none;
+    color: #e74c3c;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.language-switcher button:hover {
+    color: #c0392b;
+}
